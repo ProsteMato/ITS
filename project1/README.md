@@ -1,7 +1,7 @@
 Projekt 1 - Testovacie scenáre
 ==============================
 
-Autor: Martin Koči 
+Autor: Martin Koči <xkocim05@stud.fit.vutbr.cz>
 Testovacie vlastnosti: Pridávanie a odoberanie z košíka, Nákupný proces, Hľadanie a prezeranie produktov
 
 Pridávanie produktu do košíka (product\_inserting.feature)
