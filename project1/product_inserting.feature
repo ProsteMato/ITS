@@ -66,3 +66,4 @@ Feature: Adding product to Shopping Cart
         When user writes "2" in text field with name "quantity" in product row
         And user clicks on refresh button in product row
         Then Total price in product row is two times bigger than in unit price
+    
